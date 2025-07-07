@@ -1,4 +1,4 @@
 package com.autobots.java.lambda.git2;
 
-public class Git3 got{
+public class Git3 {
 }

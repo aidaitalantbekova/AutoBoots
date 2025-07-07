@@ -19,4 +19,7 @@ public class Main {
     // Git Full
     // Git pull practice
     // changes
-}
+    // new changes
+
+    // git pull -> git fetch ----> git merge
+}//  считается небезопасной git pull
